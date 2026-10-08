@@ -69,4 +69,4 @@ You only need to install the following **external tools** on your system:
 ## License
 
 MIT License
-© Tobias Kisling 2025
+© Annabeth Kisling 2025
