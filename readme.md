@@ -2,6 +2,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 
+> [!WARNING]  
+> Well, this is a bit deprecated. Maybe I'll work on a new "allround conversion software" in the future.
+
 A simple yet powerful **desktop file converter** with a modern GUI built on **Tkinter + ttkbootstrap**.  
 Supports audio, image, PDF, and more - all in one place.
 
